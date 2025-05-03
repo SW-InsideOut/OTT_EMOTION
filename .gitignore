@@ -1,0 +1,21 @@
+# 가상환경
+venv/
+
+
+# 캐시 및 시스템 파일
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.DS_Store
+desktop.ini
+
+# Jupyter 및 기타 임시 파일
+*.ipynb_checkpoints/
+
+# 데이터
+dataset/
+*.csv
+*.h5
+*.zip
+Downloads/
